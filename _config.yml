@@ -1,0 +1,28 @@
+name: Lesley Jesseau
+favicon: null
+layout_spectrum: 0.7453935251105577
+typography_spectrum: 0.6063277693465352
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.21312659815885127
+  lightness: 0.7115177495870739
+  saturation: 0.7161588217131793
+  rhythmicContrast: 0.4885294653940946
+purpose: []
